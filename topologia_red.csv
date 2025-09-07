@@ -1,0 +1,7 @@
+métrica,valor
+n_nodos,3134.0
+n_aristas,12467.0
+densidad,0.00251
+diámetro_mayor_componente,6.0
+clustering_promedio,0.37337
+transitividad,0.0068
